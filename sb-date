@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "$(date +\ %d\ %B\ %Y\ ) "\|\ " $(date +%H:%M\ )"
+
