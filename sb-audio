@@ -1,0 +1,4 @@
+#!/bin/sh
+#!/bin/sh
+
+echo " $(pulseaudio-ctl full-status | cut -d " " -f  1)"%
